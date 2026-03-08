@@ -1,8 +1,10 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá 👋Tudo bem?</h1>
 
 ###
 
-<p align="left">Learning code in:</p>
+<p align="left">Perfil em construção...
+  
+  e as ferramentas que estão  sendo utilizadas são:</p>
 
 ###
 
