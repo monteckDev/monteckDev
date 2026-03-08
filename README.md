@@ -38,6 +38,10 @@
   <p>
  Oi, eu sou o Gustavo. Estou entrando agora no mundo da programação, mas minha jornada com tecnologia começou em 2012, quando fiz meus primeiros cursos técnicos. Desde então, aplico esses conhecimentos no meu dia a dia como administrador.
 
-Certo dia, conheci um riddle chamado 'Notpron', no qual os jogadores avançam de fase por meio de interações com o layout e o código-fonte. Por que citei esse jogo? Porque, ao acessar o código, percebi que aqueles 'amontoados' de palavras, siglas e símbolos tinham um significado lógico que fazia as páginas funcionarem exatamente como o desenvolvedor desejava. E sim, talvez tenha começado ali o meu desejo de aprender programação e de resolver enigmas."
+Certo dia, conheci um riddle chamado 'Notpron', no qual os jogadores avançam de fase por meio de interações com o layout e o código-fonte. 
+
+*Por que citei esse jogo?*
+
+Porque, ao acessar o código, percebi que aqueles 'amontoados' de palavras, siglas e símbolos tinham um significado lógico que fazia as páginas funcionarem exatamente como o desenvolvedor desejava. E sim, talvez tenha começado ali o meu desejo de aprender programação e de resolver enigmas."
  </p>
 </div>
