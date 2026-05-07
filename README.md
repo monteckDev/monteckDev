@@ -43,5 +43,7 @@ Certo dia, conheci um riddle chamado 'Notpron', no qual os jogadores avançam de
 *Por que citei esse jogo?*
 
 Porque, ao acessar o código, percebi que aqueles 'amontoados' de palavras, siglas e símbolos tinham um significado lógico que fazia as páginas funcionarem exatamente como o desenvolvedor desejava. E sim, talvez tenha começado ali o meu desejo de aprender programação e de resolver enigmas."
+
+e agora... tenho o meu "jogo"...
  </p>
 </div>
